@@ -14,6 +14,9 @@ Run in deterministic mode: `ganache-cli -d or testrpc -d`
 
 Disable any web3 provider, to fallback to `http://localhost:7545` (default ganache-cli port)
 
+#### To start server
+`npm start`
+
 ### Screenshots
 
 #### Home page
