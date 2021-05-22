@@ -1,18 +1,18 @@
 # NFT-Marketplace
 
-To Run
-Clone this repositry, npm install, npm run migrate
+#### To Run
+Clone this repositry, `npm install`, `npm run migrate`
 
 Requires Metamask, Mist or any other Web3.js compatible Wallet. Works locally with TestRPC or Ganache.
 
-To Develop
-Install either Ganache(-cli) npm i ganache-cli -g
+#### To Develop
+Install either Ganache(-cli) `npm i ganache-cli -g`
 
-or the old TestRPC npm i ethereum-testrpc -g
+or the old TestRPC `npm i ethereum-testrpc -g`
 
-Run in deterministic mode: ganache-cli -d or testrpc -d
+Run in deterministic mode: `ganache-cli -d or testrpc -d`
 
-Disable any web3 provider, to fallback to http://localhost:8545 (default ganache-cli port)
+Disable any web3 provider, to fallback to `http://localhost:7545` (default ganache-cli port)
 
 ### Screenshots
 
